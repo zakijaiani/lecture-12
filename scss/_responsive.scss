@@ -1,0 +1,86 @@
+@media (max-width:1245px) { .container
+    .satauri {
+        text-align: center;
+        margin-left: 120px;
+        .contact1 {
+            margin-left: 180px;
+           
+        }
+        .contact2 {
+            width: 700px;
+           
+        }
+    }
+    .textarea {
+        margin-left: 100px;
+    }
+
+    .forms {
+        flex-direction: column;
+    }
+
+    .inputs {
+       flex-direction: column;
+       padding-left: 85px;
+       margin-top: 130px;
+    }
+
+    .last {
+        text-align: center;
+        margin-left: 300px;
+        width: 900px;
+    }
+
+   
+
+
+}
+
+@media (max-width:1045px){
+    .s-2 {
+        flex-direction: column;
+        justify-content: space-between;
+        margin-top: 130px;
+        margin-left: 60px;
+        
+
+    }
+    .inputs {
+        flex-direction: column;
+        margin-left: 100px;
+    }
+
+
+
+
+}
+
+
+@media (max-width: 1225px){
+
+    .photos{
+        flex-direction: row;
+        max-width:1100px;
+        margin-left: 60px;
+        justify-content: space-between;
+        height: 250px;
+    }
+}
+
+@media (max-width: 915px)
+{
+   .photos {
+    max-width: 800px;
+    width: 100%;
+   }
+}
+
+@media (max-width: 800px)
+{
+   .photos {
+    flex-direction: column;
+    
+   }
+}
+
+
